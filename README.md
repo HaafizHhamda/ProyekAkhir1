@@ -4,7 +4,7 @@ Aplikasi apa yang dibuat, Kami akan membuat Game Defense Tower Untuk Pengenalan 
 
 Tampilan Utama                              | Tampilan Kata                              | Tampilan Praktik
 --------------------------------------------|--------------------------------------------|--------------------------------------------
-<img src="screenshots/pic1.png" width="200">|<img src="screenshots/pic2.png" width="200">|<img src="screenshots/pic3.png" width="200">
+<img src="screenshots/ss1.png" width="200"> |<img src="screenshots/SS2.png" width="200"> |<img src="screenshots/SS3.png" width="200">
 
 ### Link Berkas PA
 
