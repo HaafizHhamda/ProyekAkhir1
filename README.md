@@ -8,7 +8,7 @@ Tampilan Utama                              | Tampilan Kata                     
 
 ### Link Berkas PA
 
-(diisi link Google Drive kelompok PA yang telah disiapkan oleh Tim PA)
+https://1drv.ms/f/s!Aoevvkr4ly8DkC0KKV-hOv57NToG?e=X8847c
 
 ### Susunan Tim
 
