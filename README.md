@@ -1,6 +1,6 @@
-# Judul PA Bahasa Indonesia
+# APLIKASI PERMAINAN TOWER DEFENSE UNTUK PENGENALAN PERISTIWA SEJARAH KEMERDEKAAN INDONESIA 1945
 
-Ganti paragraf ini dengan penjelasan singkat mengenai aplikasi. Beri tahu pembaca, repository ini isinya aplikasi apa, siapa target penggunanya, dan apa saja fitur utamanya. Penjelasan dibuat **minimal** 250 karakter. Setelah penjelasan, beri screenshot **maksimal 3** buah. Jika aplikasi belum jadi, screenshot boleh diambil dari Bab 3 (perancangan antarmuka aplikasi).
+Aplikasi apa yang dibuat, Kami akan membuat Game Defense Tower Untuk Pengenalan Peristiwa Sejarah, Siapa terget penguna aplikasi ini akan kami rancang untuk anak Sekolah Dasar/SD dan Sekolah Menengah Pertama/SMP dan kami harapkan pengguna didampingi oleh orang tuanya, Apa saja fitur pada aplikasi ini, Kami memiliki beberapa Fitur pada game ini, Pertama Start. Fitur Start untuk memulai game defense Tower untuk pengenalan sejarah pada fitur ini player akan mengontrol permainan agar lawan tidak melewati atau sampai ke Defense tower player.kami memiliki 3 stage jika stage berhasil player akan diberi reword berupa peristiwa sejarah yang bertujuan untuk pengenalan peristiwa sejarah dan diakhir game kami akan memberikan tanya jawab seputar reword setiap stage agar game ini berguna dalam edukasi.
 
 Tampilan Utama                              | Tampilan Kata                              | Tampilan Praktik
 --------------------------------------------|--------------------------------------------|--------------------------------------------
@@ -12,9 +12,9 @@ Tampilan Utama                              | Tampilan Kata                     
 
 ### Susunan Tim
 
-Nama            | Username Github | Posisi
-----------------|-----------------|-----------
-Nama Mahasiswa1 | usernameMhs1    | Mahasiswa
-Nama Mahasiswa2 | usernameMhs2    | Mahasiswa
-Nama Pembimbing | usernamePbb     | Pembimbing
-Nama Reviewer   | usernameRev     | Reviewer
+Nama                                    | Username Github | Posisi
+----------------------------------------|-----------------|-----------
+Haafizh hamda                           | HaafizHhamda    | Mahasiswa
+Siva Nur Samrotissa`Adah                | Sivanurs        | Mahasiswa
+Rizza Indah Mega Mandasari, S.Kom., MT. | usernamePbb     | Pembimbing
+Nama Reviewer                           | usernameRev     | Reviewer
